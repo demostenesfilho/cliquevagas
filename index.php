@@ -1,14 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Escolha sua cidade!</title>
+    <link rel="stylesheet" href="style.css"/>
+    <title>Clique Vagas :: Escolha sua cidade!</title>
 </head>
 <body>
-    <h1>Escolha sua cidade</h1>
-    <a href="caruaru/index.php">caruaru</a>
-    <a href="recife/index.php">Recife</a>
+    <div class="tela">
+
+        <div class="conteudo">
+
+            <div class="conteudo-esquerda">
+            <h4>Clique Vagas</h4>
+            <h1>Escolha sua cidade</h1>
+            <p>Escolha a cidade que você deseja conseguir sua nova oportunidade de emprego 
+                e realize seu sonho de trabalhar com o que você ama, onde você se sente bem!</p>
+            </div>
+
+            <div class="conteudo-direita">
+            
+            </div>
+
+
+        </div>
+    </div>
 </body>
 </html>
