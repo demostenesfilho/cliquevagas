@@ -3,7 +3,7 @@
   margin: 15px;
   border-radius: 5px;
   padding: 20px;
-  background-color: #854442;
+  background-color: #0b6bb5;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
@@ -12,7 +12,7 @@
 }
 
 .bt_principal:hover {
-  background-color: #946260;
+  background-color: #0b6bb5;
 }
 
 .bt_secundario {
@@ -20,7 +20,7 @@
   margin: 15px;
   border-radius: 5px;
   padding: 20px;
-  background-color: #BE9B7B;
+  background-color: #0b6bb5;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
@@ -29,7 +29,7 @@
 }
 
 .bt_secundario:hover {
-  background-color: #cfbba8;
+  background-color: #0b6bb5;
 }
 
 

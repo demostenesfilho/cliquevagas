@@ -1,6 +1,6 @@
 .sair {
     margin: 5px 155px;
-    color: #946260;
+    color: #0b6bb5;
     font-family: Roboto, 'Segoe UI';
     }
 
@@ -9,7 +9,7 @@
 @media screen and (min-width: 480px) {
     .sair {
     margin: 5px 655px;
-    color: #946260;
+    color: #0b6bb5;
     font-family: Roboto, 'Segoe UI';
     }
 }

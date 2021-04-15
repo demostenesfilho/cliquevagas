@@ -99,7 +99,7 @@ h3, h4 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #3C2F2F;
+    background: #0b6bb5;
     cursor: pointer;
   }
   
@@ -107,7 +107,7 @@ h3, h4 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #3C2F2F;
+    background: #0b6bb5;
     cursor: pointer;
   }
 
@@ -125,12 +125,12 @@ h3, h4 {
     border: none;
     border-radius: 5px;
     padding: 15px;
-    color: #3C2F2F;
+    color: #0b6bb5;
     margin-left: 20px;
   }
 
   .botaopostar {
-    background-color: #3C2F2F;
+    background-color: #0b6bb5;
     margin-top: 5px;
     border: none;
     border-radius: 5px;

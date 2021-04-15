@@ -39,9 +39,9 @@
 
 .card {
   margin: 10px 20px;
-  background-color: #f9f2ec;
+  background-color: #eee;
   border-radius: 10px;
-  box-shadow: 1px 1px 1px 1px #BE9B7B;
+  box-shadow: 1px 1px 1px 1px #0b6bb5;
   padding: 10px;
 }
 
@@ -52,11 +52,11 @@
 h3 {
   margin-top: -10px;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .precisaseclasse {
-  background-color: #e6ccb3;
+  background-color: #0b6bb5;
   margin-left: -10px;
   margin-right: -10px;
   border-radius: 10px;
@@ -76,7 +76,7 @@ h3 {
   }
 
   .precisaseclasse {
-    background-color: #e6ccb3;
+    background-color: #aaa;
   }
 
 }

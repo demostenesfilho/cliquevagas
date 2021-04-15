@@ -9,7 +9,7 @@
   
 .temasub {
     margin-top: -30px;
-    color: #BE9B7B;
+    color: #0b6bb5;
   }
 
 .caixaemail {
@@ -51,7 +51,7 @@ p {
     text-decoration: none;
     text-transform: uppercase;
     border: none;
-    background-color: #3C2F2F;
+    background-color: #0b6bb5;
   }
 
 .nameemail {
@@ -65,17 +65,17 @@ p {
 }
 
 .textodownbotao {
-    color: #BE9B7B;
+    color: #0b6bb5;
 }
 
 .pjatemconta {
     margin-top: 100px;
     margin-bottom: 0px;
-    color: #BE9B7B;
+    color: #0b6bb5;
 }
 
 a {
-    color: #BE9B7B;
+    color: #0b6bb5;
 }
 
 input:invalid {

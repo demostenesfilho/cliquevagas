@@ -91,7 +91,7 @@
   
   .temasub {
     margin-top: -30px;
-    color: #BE9B7B;
+    color: #0b6bb5;
   }
   
   .botaoconfirma {
@@ -106,26 +106,26 @@
     text-decoration: none;
     text-transform: uppercase;
     border: none;
-    background-color: #3C2F2F;
+    background-color: #0b6bb5;
   }
   
   .textodownbotao {
     margin: 15px 35px;
     font-size: 12px;
-    color: #BE9B7B;
+    color: #0b6bb5;
     text-align: center;
   }
   
   .linksdownbotao {
     font-size: 12px;
-    color: #BE9B7B;
+    color: #0b6bb5;
   }
   
   .pjatemconta {
     margin: 15px 35px;
     margin-top: 50px;
     font-size: 12px;
-    color: #BE9B7B;
+    color: #0b6bb5;
     text-align: center;
   }
 
