@@ -1,5 +1,5 @@
 <?php
-putenv("DATABASE_URL=host=ec2-54-152-28-9.compute-1.amazonaws.com port=5432 user=vxglrvjcpzwlfo dbname=d5fjlrjlpirn9u password=47057bf317e1251a0526ab904ec3e0174c9822dab0e2088d29a45e38a4e855c8");
+putenv("DATABASE_URL=host=ec2-54-87-179-4.compute-1.amazonaws.com port=5432 user=rmcgucryslcrqs dbname=d5f2ke6idtkp10 password=8bfde7c7bcfbbb256856d1b4ded1dcec88a04810a4edddc7df3d749c9c55a13f");
 //putenv("DATABASE_URL=host=localhost port=5432 user=postgres dbname=postgres password=123");
 //echo getenv("DATABASE_URL");
 
